@@ -1,0 +1,13 @@
+echo -e '\033[92m'
+echo -e 'By CPI.tm from mentors:                                                   
+echo -e '\033[97m  
+echo -e 'vlaviosin#0001 
+echo -e '\033[93m
+echo -e 'Vitmin#0001
+echo -e '\033[95m
+echo -e 'GhOsTeR#1111
+echo -e '\033[91m
+echo -e 'Саша777#9765 
+echo -e '\033[96m                                                   
+echo -e 'billymoor#0754                                                    
+echo -e '\e[0m'
