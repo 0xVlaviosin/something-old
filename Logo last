@@ -11,31 +11,10 @@ colors
 
 
 echo -e '\033[92m'
-echo -e 'By CPI.tm from mentors:
-echo -e '\e[0m'
-echo -e ''
-echo -e '\033[97m'  
-echo -e ''
-echo -e ' vlaviosin#0001 
-echo -e '\e[0m'
-echo -e ''
-echo -e '\033[93m'
-echo -e ''
-echo -e ' Vitmin#0001
-echo -e '\e[0m'
-echo -e ''
-echo -e '\033[95m'
-echo -e ''
-echo -e ' GhOsTeR#1111
-echo -e '\e[0m'
-echo -e ''
-echo -e '\033[91m
-echo -e ''
-echo -e ' Саша777#9765 
-echo -e '\e[0m'
-echo -e ''
-echo -e '\033[96m' 
-echo -e ''
-echo -e ' billymoor#0754 
-echo -e ''
-echo -e '\e[0m'
+echo -e 'By CPI.tm from mentors:                                                    
+echo -e 'vlaviosin#0001 
+echo -e 'Vitmin#0001
+echo -e 'GhOsTeR#1111
+echo -e 'Саша777#9765                                                  
+echo -e 'billymoor#0754                                                    
+
