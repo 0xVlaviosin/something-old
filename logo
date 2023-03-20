@@ -10,7 +10,7 @@ function colors {
 colors
 
 
-echo -e "${}                                                     ${NORMAL}"
+
 echo -e "${LMAGENTA}   ______ ______ _____                       ${NORMAL}"
  echo -e "${LMAGENTA} / _____|_____ (_____)        _             ${NORMAL}"
 echo -e "${LMAGENTA} | /      _____) ) _          | |_     ____  ${NORMAL}"
