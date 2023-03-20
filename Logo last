@@ -1,5 +1,6 @@
 echo -e '\033[92m'
-echo -e 'By CPI.tm from mentors:                                                   
+echo -e 'By CPI.tm from mentors:
+echo -e '\e[0m'
 echo -e '\033[97m  
 echo -e 'vlaviosin#0001 
 echo -e '\033[93m
