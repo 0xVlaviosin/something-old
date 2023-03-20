@@ -10,16 +10,11 @@ function colors {
 colors
 
 
-
-
-                                                   
-echo -e "${}                                         ${NORMAL}"
-echo -e "${LMAGENTA}  /$$$$$$  /$$$$$$   /$$   /$$$$$$$$$$$ /$$      /$$ ${NORMAL}"
-echo -e "${LMAGENTA} /$$__  $$| $$__ $$ | $$  |___  $$___/ | $$$    /$$$ ${NORMAL}"
-echo -e "${LMAGENTA}| $$  \__/| $$  \ $$| $$      | $$     | $$$$  /$$$$ ${NORMAL}"
-echo -e "${LMAGENTA}| $$      | $$  | $$| $$      | $$     | $$ $$/$| $$ ${NORMAL}"
-echo -e "${LMAGENTA}| $$   /$$| $$$$$$ /| $$      | $$     | $$  $$ | $$ ${NORMAL}"
-echo -e "${LMAGENTA}| $$  | $$| $$ __ / | $$      | $$     | $$     | $$ ${NORMAL}"
-echo -e "${LMAGENTA}|  $$$$$$/| $$      | $$ /$$  | $$     | $$     | $$ ${NORMAL}"
-echo -e "${LMAGENTA} \______/ |__/      |__/ |_/  |__/     |__/     |__/ ${NORMAL}"
-
+echo -e "${}                                                     ${NORMAL}"
+echo -e "${LMAGENTA}   ______ ______ _____                       ${NORMAL}"
+ echo -e "${LMAGENTA} / _____|_____ (_____)        _             ${NORMAL}"
+echo -e "${LMAGENTA} | /      _____) ) _          | |_     ____  ${NORMAL}"
+echo -e "${LMAGENTA} | |     |  ____/ | |         |  _)   |    \ ${NORMAL}"
+echo -e "${LMAGENTA} | \_____| |     _| |_    _   | |__   | | | |${NORMAL}"
+ echo -e "${LMAGENTA} \______)_|    (_____)  (_)   \___)  |_|_|_|${NORMAL}"
+                                            
