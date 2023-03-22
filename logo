@@ -1,15 +1,5 @@
 #!/bin/bash
 
-function colors {
-  GREEN="\e[32m"
-  RED="\e[39m"
-  NORMAL="\e[0m"
-  LMAGENTA='\e[1;35m' 
-}
-
-colors
-
-
 
 echo -e '\033[92m'
 echo -e '                                                   '
